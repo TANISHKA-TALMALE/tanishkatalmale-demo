@@ -1,2 +1,4 @@
 # tanishkatalmale-demo
-This is my first github repository. author-TANISHKA TALMALE
+This is my first github repository.
+<br>
+Author-TANISHKA TALMALE
